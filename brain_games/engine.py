@@ -2,6 +2,12 @@ import prompt
 
 
 def play(game):
+    '''
+    The game engine. 
+    parametr = game module
+    
+    '''
+
     ATTEMPTS = 3
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')

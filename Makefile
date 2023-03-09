@@ -15,5 +15,9 @@ package-install:
 
 lint:
 	poetry run flake8 brain_games
+
 brain-calc:
 	poetry run brain-calc
+
+brain-gcd:
+	poetry run brain-gcd
