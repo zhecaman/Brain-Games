@@ -1,12 +1,20 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/zhecaman/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/zhecaman/python-project-49/actions)
 
-__Brain-games__: a simple CLI logic game
+# __Brain-games__: a simple CLI logic game
 
-Requirements:
-  >  python = "^3.10"
-  > prompt = "^0.4.1"
-  >  sympy = "^1.11.1"
+## Aviable games:
+
+- __brain-even__: You will answer is given number even or not
+- __brain-calc__: Gives a simple mathematical expression you have to solve
+- __brain-gcd__:  Defining a greatest common divisor of two numbers
+- __brain-progression__: Finding mising number in a sequence
+- __brain-prime__: Definig is given number prime or not
+
+## Requirements:
+  >  python = "^3.10"\
+  > prompt = "^0.4.1"\
+  >  sympy = "^1.11.1"\
 
 Instalation and gameplay demo:
 
