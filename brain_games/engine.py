@@ -3,9 +3,8 @@ import prompt
 
 def play(game):
     '''
-    The game engine. 
+    The game engine.
     parametr = game module
-    
     '''
 
     ATTEMPTS = 3
