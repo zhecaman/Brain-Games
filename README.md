@@ -14,7 +14,7 @@
 ## Requirements:
   >  python = "^3.10"\
   > prompt = "^0.4.1"\
-  >  sympy = "^1.11.1"\
+  >  sympy = "^1.11.1"
 
 Instalation and gameplay demo:
 
