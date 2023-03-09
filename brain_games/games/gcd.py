@@ -12,6 +12,6 @@ def get_question_and_correct_answer():
     '''
     desk = [x for x in range(100) if not isprime(x)]
     numbers = random.choice(desk), random.choice(desk)
-    question = '{0} {1}'.format(*numbers)
+    question = f'{numbers[0]} {numbers[1]}'
     correct_answer = gcd(*numbers)
     return question, str(correct_answer)
