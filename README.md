@@ -16,26 +16,26 @@
   > prompt = "^0.4.1"\
   >  sympy = "^1.11.1"
 
-Instalation and gameplay demo:
+## Instalation and gameplay demo:
 
 [![asciicast](https://asciinema.org/a/mHwj2latBnAAMdhVg3djuxlDt.svg)](https://asciinema.org/a/mHwj2latBnAAMdhVg3djuxlDt)
 
-Brain-even:
+### Brain-even:
 
 [![asciicast](https://asciinema.org/a/r6pZj9pfJJvZatZtXsRlDSeZZ.svg)](https://asciinema.org/a/r6pZj9pfJJvZatZtXsRlDSeZZ)
 
-Brain-calc:
+### Brain-calc:
 
 [![asciicast](https://asciinema.org/a/gSYrXYVAOBm0l9YhLHXNdbX20.svg)](https://asciinema.org/a/gSYrXYVAOBm0l9YhLHXNdbX20)
 
-Brain-gcd:
+### Brain-gcd:
 
 [![asciicast](https://asciinema.org/a/RyuU5dkks5iSx3qEDgYvGlXU9.svg)](https://asciinema.org/a/RyuU5dkks5iSx3qEDgYvGlXU9)
 
-Brain-progression:
+### Brain-progression:
 
 [![asciicast](https://asciinema.org/a/ZuobH2NzceNIIzblo2h13xBYD.svg)](https://asciinema.org/a/ZuobH2NzceNIIzblo2h13xBYD)
 
-Brain-prime:
+### Brain-prime:
 
 [![asciicast](https://asciinema.org/a/AqJyEcHqqiMD2w6MgE86esZeL.svg)](https://asciinema.org/a/AqJyEcHqqiMD2w6MgE86esZeL)
