@@ -1,12 +1,12 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/zhecaman/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/zhecaman/python-project-49/actions)
 
-Brain-games: a simple CLI logic game
+__Brain-games__: a simple CLI logic game
 
 Requirements:
-    python = "^3.10"
-    prompt = "^0.4.1"
-    sympy = "^1.11.1"
+  >  python = "^3.10"
+  > prompt = "^0.4.1"
+  >  sympy = "^1.11.1"
 
 Instalation and gameplay demo:
 
