@@ -1,6 +1,8 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/zhecaman/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/zhecaman/python-project-49/actions)
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/7fb95c476688e211742b/maintainability)](https://codeclimate.com/github/zhecaman/python-project-49/maintainability)
+
 # __Brain-games__: a simple CLI logic game
 
 ## Aviable games:
