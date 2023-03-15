@@ -1,7 +1,7 @@
 import random
 
 
-RULES = 'Answer "yes" if given number is prime, otherwise answer "no".'
+RULES = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 def isprime(number):
     for i in range(2, (number//2) + 1):
