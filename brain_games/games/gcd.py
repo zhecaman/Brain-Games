@@ -1,5 +1,5 @@
 from math import gcd
-from sympy import isprime
+from .prime import isprime
 import random
 
 
