@@ -25,5 +25,6 @@ def play(game):
                   f"Correct answer was '{correct_answer}'.\n"
                   f"Let's try again, {name}!")
             return
+        ATTEMPTS -= 1
         print('Correct!')
     print(f'Congratulations, {name}!')
