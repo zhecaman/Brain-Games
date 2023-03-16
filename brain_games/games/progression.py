@@ -11,9 +11,8 @@ def get_question_and_correct_answer():
     start = random.randint(1, 20)
     step = random.randint(1, 10)
     hidden = random.randint(1, 9)
-    progression = [x for x in range(start, (step * 10 + start), step)]
-    numbers = progression.copy()
-    numbers[hidden] = '..'
-    question = '{0} {1} {2} {3} {4} {5} {6} {7} {8} {9}'.format(*numbers)
+    progression = [str(x) for x in range(start, (step * 10 + start), step)]
     correct_answer = progression[hidden]
+    progression[hidden] = '..'
+    question = ' '.join(progression)
     return question, str(correct_answer)
