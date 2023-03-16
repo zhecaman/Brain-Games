@@ -15,7 +15,7 @@
 
 ## Requirements:
   >  python = "^3.10"\
-  > prompt = "^0.4.1"\
+  > prompt = "^0.4.1"
 
 ## Instalation and gameplay demo:
 
