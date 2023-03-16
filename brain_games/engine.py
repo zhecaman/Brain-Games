@@ -1,8 +1,8 @@
 import prompt
 
 
-
 ATTEMPTS = 3
+
 
 def play(game):
     '''
