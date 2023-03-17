@@ -15,7 +15,7 @@ def play(game):
     print(f'Hello, {name}!')
     print(game.RULES)
 
-    counter = 0 
+    counter = 0
 
     while counter < ATTEMPTS:
         question, correct_answer = game.get_question_and_correct_answer()
