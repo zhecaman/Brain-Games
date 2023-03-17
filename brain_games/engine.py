@@ -15,8 +15,9 @@ def play(game):
     print(f'Hello, {name}!')
     print(game.RULES)
 
-    global ATTEMPTS
-    while ATTEMPTS > 0:
+    counter = 0 
+
+    while counter < ATTEMPTS:
         question, correct_answer = game.get_question_and_correct_answer()
         print(f'Question: {question}')
         answer = prompt.string('Your answer: ')
@@ -25,6 +26,6 @@ def play(game):
                   f"Correct answer was '{correct_answer}'.\n"
                   f"Let's try again, {name}!")
             return
-        ATTEMPTS -= 1
+        counter += 1
         print('Correct!')
     print(f'Congratulations, {name}!')
